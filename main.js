@@ -303,8 +303,8 @@ const App = () => {
                 </div>
 
                 {/* Copyright Section */}
-                <div className="mt-8 pt-6 border-t border-gray-200 text-center text-gray-600 text-sm">
-                    &copy; {new Date().getFullYear()} Diya Dutta. All rights reserved.
+               <div className="mt-8 pt-6 border-t border-gray-200 text-center text-gray-600 text-sm">
+                    &copy; {new Date().getFullYear()} <a href="https://www.linkedin.com/in/diya-dutta-463b25334" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">Diya Dutta</a>. All rights reserved.
                 </div>
             </div>
         </div>
